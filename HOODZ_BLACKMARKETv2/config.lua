@@ -5,7 +5,7 @@ Config.RequiredItem = "phone"
 
 -- Time limit to reach the dealer (in minutes)
 Config.TimeLimit = 20
-
+--masons a temu dev
 -- Notification settings
 Config.Notifications = {
     NoItem = "You need a burner phone to use this payphone.",
